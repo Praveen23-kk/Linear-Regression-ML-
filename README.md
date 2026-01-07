@@ -229,9 +229,9 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Praveen23-kk)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/k-praveen-kumar-6223aa280/)
-- Email: Praveennaaz23@gamil.com
+- GitHub: [@Praveen23-kk](https://github.com/Praveen23-kk)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/k-praveen-kumar-6223aa280/)
+- Email: Praveennaaz23@gmail.com
 
 ## 🙏 Acknowledgments
 
