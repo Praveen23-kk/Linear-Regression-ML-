@@ -176,8 +176,8 @@ linear-regression-height-weight/
 ├── Linear_reg.ipynb          # Main Jupyter notebook
 ├── height-weight.csv         # Dataset
 ├── README.md                 # Project documentation
-├── requirements.txt          # Python dependencies
-└── .gitignore               # Git ignore file
+
+
 ```
 
 ## 🚀 Getting Started
